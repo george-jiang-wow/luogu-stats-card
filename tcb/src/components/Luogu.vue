@@ -103,7 +103,7 @@ export default {
         "HTML": '',
         "URL": '',
       },
-      imgUrl: "https://luogu.wao3.cn/api/practice?id=313209",
+      imgUrl: "https://luogu.george-jiang.eu.org/api/practice?id=313209",
     };
   },
   methods: {
@@ -131,7 +131,7 @@ export default {
   computed: {
     realtimeImgUrl() {
       const form = this.form;
-      let url = `https://luogu.wao3.cn/api/${form.type}?id=${form.uid}`;
+      let url = `https://luogu.george-jiang.eu.org/api/${form.type}?id=${form.uid}`;
       if (form.type == 'guzhi') {
         url += `&scores=${form.guzhi.join(',')}`;
       }

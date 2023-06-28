@@ -19,9 +19,9 @@
 
 ## 效果预览
 
-![wangao 的练习情况](https://luogu.wao3.cn/api/practice?id=313209)
+![wangao 的练习情况](https://luogu.george-jiang.eu.org/api/practice?id=313209)
 
-![wangao 的咕值信息](https://luogu.wao3.cn/api/guzhi?id=313209&scores=100,65,45,15,0)
+![wangao 的咕值信息](https://luogu.george-jiang.eu.org/api/guzhi?id=313209&scores=100,65,45,15,0)
 
 *(上面的咕值仅为展示效果，本人咕值并没有这么高)*
 
@@ -34,13 +34,13 @@
 1. Markdown：复制以下内容到任意 markdown 编辑器中，并将`?id=`后面的数字更改为自己的 id 即可（id 是洛谷个人主页地址的一串数字）。
 
    ```markdown
-   ![我的练习情况](https://luogu.wao3.cn/api/practice?id=313209)
+   ![我的练习情况](https://luogu.george-jiang.eu.org/api/practice?id=313209)
    ```
 
 2. HTML：复制以下内容到 HTML 代码中，并将`?id=`后面的数字更改为自己的 id 即可（id 是洛谷个人主页地址的一串数字）。
 
     ```html
-    <img alt="我的练习情况" src="https://luogu.wao3.cn/api/practice?id=313209">
+    <img alt="我的练习情况" src="https://luogu.george-jiang.eu.org/api/practice?id=313209">
     ```
 
 ### 咕值信息
@@ -52,12 +52,12 @@
 1. Markdown：复制以下内容到任意 markdown 编辑器中，并将 `?id=`后面的数字更改为自己的 id，将`scores=`后面更换为自己的咕值信息，一共 5 个数字，用逗号分隔。
 
    ```markdown
-   ![我的咕值信息](http://luogu.wao3.cn/api/guzhi?id=313209&scores=100,65,45,15,0)
+   ![我的咕值信息](http://luogu.george-jiang.eu.org/api/guzhi?id=313209&scores=100,65,45,15,0)
    ```
    
 2. HTML：复制以下内容到 HTML 代码中，并将 `?id=`后面的数字更改为自己的 id，将`scores=`后面更换为自己的咕值信息，一共 5 个数字，用逗号分隔。
    ```html
-   <img alt="我的练习情况" src="https://luogu.wao3.cn/api/practice?id=313209">
+   <img alt="我的练习情况" src="https://luogu.george-jiang.eu.org/api/practice?id=313209">
    ```
    
 
@@ -69,31 +69,31 @@
 1. **隐藏标题**，只需在链接最后带上`&hide_title=true`即可，例如：
 
    ```markdown
-   ![wangao 的练习情况](https://luogu.wao3.cn/api/practice?id=313209&hide_title=true)
+   ![wangao 的练习情况](https://luogu.george-jiang.eu.org/api/practice?id=313209&hide_title=true)
    ```
 
    效果：
 
-   ![wangao 的练习情况](https://luogu.wao3.cn/api/practice?id=313209&hide_title=1)
+   ![wangao 的练习情况](https://luogu.george-jiang.eu.org/api/practice?id=313209&hide_title=1)
 
 2. **黑暗模式**，只需在链接最后带上`&dark_mode=true`即可，例如：
 
    ```markdown
-   ![wangao 的练习情况](https://luogu.wao3.cn/api/practice?id=313209&dark_mode=true)
+   ![wangao 的练习情况](https://luogu.george-jiang.eu.org/api/practice?id=313209&dark_mode=true)
    ```
 
    效果：
 
-   ![wangao 的练习情况](https://luogu.wao3.cn/api/practice?id=313209&dark_mode=1)
+   ![wangao 的练习情况](https://luogu.george-jiang.eu.org/api/practice?id=313209&dark_mode=1)
 3. **自定义宽度**，默认 500，限制宽度在 500 到 1920 之间，只需在链接最后带上`&card_width=需要的宽度`即可，例如：
 
    ```markdown
-   ![wangao 的练习情况](https://luogu.wao3.cn/api/practice?id=313209&card_width=750)
+   ![wangao 的练习情况](https://luogu.george-jiang.eu.org/api/practice?id=313209&card_width=750)
    ```
 
    效果：
 
-   ![wangao 的练习情况](https://luogu.wao3.cn/api/practice?id=313209&card_width=750)
+   ![wangao 的练习情况](https://luogu.george-jiang.eu.org/api/practice?id=313209&card_width=750)
    
 
 ## 如何参与贡献
